@@ -12,7 +12,7 @@ The goal is to improve my problem-solving skills, master data structures and alg
 ## 🔍 What's Included for Each Day
 - **Problem Link**: LeetCode problem URL.
 - **Approach**: Brief explanation of the solution logic.
-- **Solution Code**: Implemented in Python/Java/C++ (or others).
+- **Solution Code**: Implemented in C#.
 - **Time & Space Complexity**: Analysis of the solution.
 - **Key Takeaways**: Lessons learned or optimizations discovered.
 
